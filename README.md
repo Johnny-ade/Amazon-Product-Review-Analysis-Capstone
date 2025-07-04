@@ -9,11 +9,11 @@ This Data Analysis project aims to generate insight into the product reviews of 
 The primary source of Data used here is Amazon product review analysis.csv and this is provided by Capstone.
 
 ### Tools Used
-- Ms Excel for Data Cleaning [Download Here](https://www.Microsoft.com)
+- *Ms Excel for Data Cleaning* [Download Here](https://www.Microsoft.com)
     - For Manipulation
     - For Munchin 
-- Ms Excel for Querryind and Analysis
-- Ms Excel for creating report
+- *Ms Excel for Querryind and Analysis*
+- *Ms Excel for creating report*
 
 ### Explanatory Data Analysis
 EDA involved the exploring of Data to answer some questions about the data...
