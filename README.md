@@ -15,9 +15,6 @@ The primary source of Data used here is Amazon product review analysis.csv and t
 - Ms Excel for Querryind and Analysis
 - Ms Excel for creating report
 
-### Data Analysis
-This is where we inlude some basic lines of code or queries and columns during the analysis.
-
 ### Explanatory Data Analysis
 EDA involved the exploring of Data to answer some questions about the data...
 
@@ -290,3 +287,7 @@ C → Sort & Filter:
 Sort Weighted Score → Descending
 
 Show Top 5 Products
+
+### Data Analysis
+This is where we inlude some basic lines of code or queries and columns during the analysis.
+
